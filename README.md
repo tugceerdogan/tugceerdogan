@@ -1,6 +1,6 @@
-## Hi there I'm Tuğçenur Erdoğan :raising_hand:
+## Hi there I am Tuğçenur Erdoğan :raising_hand:
 
-:bulb: I'm an Android Developer. 
+:iphone:       I am an Android Developer. 
 
 :mortar_board: I just graduated from the Electrical and Electronics Engineering department.
 
