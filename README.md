@@ -1,6 +1,6 @@
 ## Hi there :raising_hand:
 
-:bulb: I am an Electrical and Electronics engineer. 
+:bulb: I am an Electrical and Electronics Engineer. 
 
 :mortar_board: I just graduated.
 
