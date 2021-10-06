@@ -4,7 +4,7 @@
 
 :mortar_board: I just graduated from the Electrical and Electronics Engineering department.
 
-:computer:    I am currently working on _Turkcell Technology_ as Junior Android Developer and an Android Bootcamp student, which was realized in cooperation with Yemek Sepeti, Kodluyoruz and Patika.dev.
+:computer:    I worked at _Turkcell Technology_ as a Junior Android Developer for 6 months now I am working at _Yemeksepeti_ Banabi Team. 
 
 :balloon: I am currently learning to develop mobile applications professionally, Java programming language and working in a corporate company.
 
