@@ -2,8 +2,6 @@
 
 :iphone:        I am an Android Developer. 
 
-:mortar_board: I just graduated from the Electrical and Electronics Engineering department.
-
 :computer:    I worked at _Turkcell Technology_ as an Android Developer Intern for 6 months and at _Yemeksepeti_ as a Junior Android Developer for 1 year now I am working at _Trendyol_ 
 
 :balloon: I am currently learning to develop mobile applications professionally and working in a corporate company.
