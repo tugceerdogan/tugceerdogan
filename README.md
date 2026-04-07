@@ -2,7 +2,7 @@
 
 :iphone:        I am an Android Developer. 
 
-:computer:    I worked at _Turkcell Technology_ as an Android Developer Intern for 6 months and at _Yemeksepeti_ as a Android Developer for 3.5 years now I am working at _Trendyol_ 
+:computer:    I worked at _Yemeksepeti_ as a Jr. Android Developer for 1 year, now I am working at _Trendyol_  for 3.5 years as a Android Developer.
 
 :balloon: I am currently learning to develop mobile applications professionally and working in a corporate company.
 
